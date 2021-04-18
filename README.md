@@ -23,7 +23,7 @@
 
 ### Github Actions版本<br>
 1.点击项目右上角的Fork，Fork此项目<br>
-2.到自己Fork的项目点击Actions，如果未启用，需要手动启用，然后启用需要运行的Workflows
+2.到自己Fork的项目点击Actions，如果未启用，需手动启用，然后启用需要运行的Workflows
 <br>
 3.到自己Fork的项目点击Setting→Secrets→New secrets<br>
 4.填写Name，和Value，具体到各脚本中看<br>
